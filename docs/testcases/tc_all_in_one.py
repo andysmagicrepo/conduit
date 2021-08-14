@@ -1,6 +1,7 @@
-# egyben
+# Bazsalya András Vizsgaremek Feladatok egyben
 from selenium import webdriver
 from webdriver_manager.chrome import ChromeDriverManager
+from selenium.webdriver.chrome.options import Options
 from selenium.common.exceptions import NoSuchElementException
 from selenium.webdriver.support.ui import Select
 from selenium.webdriver.common.keys import Keys
@@ -11,16 +12,34 @@ import random
 import string
 import time
 
-# opt = Options()
-# opt.headless = False
-# driver = webdriver.Chrome(executable_path=ChromeDriverManager().install(), options=opt)
-
-# In order for ChromeDriverManager to work you must pip install it in your own environment.
-driver = webdriver.Chrome(ChromeDriverManager().install())
-
 a = 1
 i = 0
+Y = "Headless"
 
+if Y == "Headless":
+    #A
+    options = webdriver.ChromeOptions()
+    options.add_argument('--no-sandbox')
+    options.add_argument('--headless')
+    options.add_argument('disable-gpu')
+    driver = webdriver.Chrome(ChromeDriverManager().install(), options=options)
+    # driver.get("http://localhost:1667")
+    #B
+    # WebDriverManager.chromedriver().setup();
+    # ChromeOptions chromeOptions = new ChromeOptions();
+    # chromeOptions.addArguments("--no-sandbox");
+    # chromeOptions.addArguments("--headless");
+    # chromeOptions.addArguments("disable-gpu");
+    # #C
+    # from selenium.webdriver.chrome.options import Options
+    # opt = Options()
+    # opt.headless = True
+    # driver = webdriver.Chrome(ChromeDriverManager().install(), options=options)
+else:
+    pass
+    # opt.headless = False
+    # # In order for ChromeDriverManager to work you must pip install it in your own environment.
+    # driver = webdriver.Chrome(ChromeDriverManager().install())
 
 class MyRND():
     print("MyRND: Start")
@@ -68,7 +87,7 @@ class MyRND():
 #             d["password"] = MyRND.ppass()
 #             self.data.append(d)
 
-# 2 beviteli mezőt tartalmaz: Email, Password
+# 4 beviteli mezőt tartalmaz: Email, Password, a kijelzett login ellenőrzéséhez, az elvárt üzenet assertnél
 def login_func(email, pwd, logged_in, e_result):
     print("Login_func: Start")
     # Home: http://localhost:1667/#/
@@ -337,6 +356,7 @@ def your_settings_func():
             print("Pop-up button: Clicked")
 try:
     URL1 = "http://localhost:1667/#/"
+    #URL1 = "http://localhost:1667"
     URL2 = "https://react-layr-realworld-example-app.layrjs.com/all"
     if a == 1:
         driver.get(URL1)
@@ -369,6 +389,14 @@ try:
     logout_func()
     # 1db kiválasztott x felhasználó bejelentkezése
     login_func("carol1@example.com", "Ab1234567", "Carol1", "")
+    # login_func("testuser1@example.com", "Abcd123$", "testuser1", "")
+    # web applikacioban
+    # login_func("testuser1@example.com", "Abcd123$", "testuser1", "")
+    # login_func("testuser2@example.com", "Abcd123$", "testuser2", "")
+    # login_func("testuser3@example.com", "Abcd123$", "testuser3", "")
+    # login_func("testuser4@example.com", "Abcd123$", "testuser4", "")
+    # login_func("testuser5@example.com", "Abcd123$", "testuser2", "")
+
     time.sleep(2)
     # x felhasználó adatainak módosítása
     # b1 = "https://static.productionready.io/images/smiley-cyrus.jpg"
