@@ -33,8 +33,8 @@ jobs:
     - name: Start containers
       run: docker-compose up -d
 
-    - name: Sleep for 75 seconds
-      run: sleep 75s
+    - name: Sleep for 120 seconds
+      run: sleep 120s
       shell: bash
 
     - name: Collect docker logs
