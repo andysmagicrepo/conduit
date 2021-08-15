@@ -1,0 +1,83 @@
+MyRND: Start
+Sign_up_func: Start
+Reg_result:  Your registration was successful!
+Logout_func: Start
+Sign_up_func: Start
+Reg_result:  Your registration was successful!
+Logout_func: Start
+Sign_up_func: Start
+Reg_result:  Your registration was successful!
+Logout_func: Start
+Sign_up_func: Start
+Reg_result:  Your registration was successful!
+Logout_func: Start
+Sign_up_func: Start
+Reg_result:  Your registration was successful!
+Logout_func: Start
+Login_func: Start
+Logged_in:  Carol1
+Your_settings_func: Start
+Gomb:  Update Settings
+Dialog window:  1
+Window message:  Update successful!
+Pop-up button: Clicked
+New_article_func: Start
+Pub article button: Clicked
+New Article 0
+New_article_func: Start
+Pub article button: Clicked
+New Article 1
+New_article_func: Start
+Pub article button: Clicked
+New Article 2
+New_article_func: Start
+Pub article button: Clicked
+New Article 3
+New_article_func: Start
+Pub article button: Clicked
+New Article 4
+New_article_func: Start
+Pub article button: Clicked
+New Article 5
+New_article_func: Start
+Pub article button: Clicked
+New Article 6
+New_article_func: Start
+Pub article button: Clicked
+New Article 7
+New_article_func: Start
+Pub article button: Clicked
+New Article 8
+New_article_func: Start
+Pub article button: Clicked
+New Article 9
+New_article_func: Start
+Pub article button: Clicked
+New Article 10
+New_article_func: Start
+Pub article button: Clicked
+New Article 11
+New_article_func: Start
+Pub article button: Clicked
+New Article 12
+New_article_func: Start
+Pub article button: Clicked
+New Article 13
+New_article_func: Start
+Pub article button: Clicked
+New Article 14
+New_article_func: Start
+Pub article button: Clicked
+New Article 15
+New_article_func: Start
+Pub article button: Clicked
+New Article 16
+New_article_func: Start
+Pub article button: Clicked
+New Article 17
+New_article_func: Start
+Pub article button: Clicked
+New Article 18
+New_article_func: Start
+Pub article button: Clicked
+New Article 19

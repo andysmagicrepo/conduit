@@ -1,0 +1,11 @@
+[ {
+  "uid" : "2f698f1cfb2ec455",
+  "name" : "test_tc_all_in_one",
+  "time" : {
+    "start" : 1629016542034,
+    "stop" : 1629016790315,
+    "duration" : 248281
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

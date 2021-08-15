@@ -1,0 +1,22 @@
+{
+  "uid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+  "children" : [ {
+    "name" : "testcases.test_tc_all_in_one",
+    "children" : [ {
+      "name" : "test_tc_all_in_one",
+      "uid" : "2f698f1cfb2ec455",
+      "parentUid" : "6ac324f1d46620b02796629f8a990a4f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1629016542034,
+        "stop" : 1629016790315,
+        "duration" : 248281
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "testcases.test_tc_all_in_one"
+  } ],
+  "name" : "packages"
+}
