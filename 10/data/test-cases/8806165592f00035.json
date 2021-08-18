@@ -1,0 +1,101 @@
+{
+  "uid" : "8806165592f00035",
+  "name" : "test_a_login_logout",
+  "fullName" : "testcases.test_a_login_logout#test_a_login_logout",
+  "historyId" : "44510c96439c58d2c2b698c119432a7c",
+  "time" : {
+    "start" : 1629326858701,
+    "stop" : 1629326961571,
+    "duration" : 102870
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "408af1caf426afb2",
+      "name" : "log",
+      "source" : "408af1caf426afb2.txt",
+      "type" : "text/plain",
+      "size" : 642
+    }, {
+      "uid" : "7451775bcfd9f932",
+      "name" : "stdout",
+      "source" : "7451775bcfd9f932.txt",
+      "type" : "text/plain",
+      "size" : 667
+    }, {
+      "uid" : "18841d5e5dc92cd0",
+      "name" : "stderr",
+      "source" : "18841d5e5dc92cd0.txt",
+      "type" : "text/plain",
+      "size" : 435
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 3,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "testcases"
+  }, {
+    "name" : "suite",
+    "value" : "test_a_login_logout"
+  }, {
+    "name" : "host",
+    "value" : "fv-az72-270"
+  }, {
+    "name" : "thread",
+    "value" : "3843-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "testcases.test_a_login_logout"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 2,
+        "unknown" : 0,
+        "total" : 2
+      },
+      "items" : [ {
+        "uid" : "21cccbfea19a07a5",
+        "reportUrl" : "https://andysmagicrepo.github.io/conduit/9//#testresult/21cccbfea19a07a5",
+        "status" : "passed",
+        "time" : {
+          "start" : 1629326141426,
+          "stop" : 1629326240898,
+          "duration" : 99472
+        }
+      } ]
+    },
+    "tags" : [ ]
+  },
+  "source" : "8806165592f00035.json",
+  "parameterValues" : [ ]
+}

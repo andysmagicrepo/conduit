@@ -1,0 +1,7 @@
+Sign_up_func: Start
+Reg_result:  Email already taken.
+Reg_result: Mivel az email cím már létezik és a beállítás hibátlan bevitelre vonatkozott, ezért az assert kihagyva!
+Logout_func: Start
+Login_func: Start
+Logged_in:  Carol1
+Logout_func: Start

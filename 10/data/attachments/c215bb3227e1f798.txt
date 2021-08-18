@@ -1,0 +1,54 @@
+Érvénytelen felhasználói regisztrációk sikertelenségének ellenőrzése
+Sign_up_func: Start
+Reg_result:  Username field required.
+Sign_up_func: Start
+Reg_result:  Email must be a valid email.
+Sign_up_func: Start
+Reg_result:  Email must be a valid email.
+Sign_up_func: Start
+Reg_result:  Email must be a valid email.
+Sign_up_func: Start
+Reg_result:  Email already taken.
+Reg_result: Mivel az email cím már létezik, a funkció igy nem vizsgálható, ezért az assert kihagyva!
+Sign_up_func: Start
+Reg_result:  Email already taken.
+Reg_result: Mivel az email cím már létezik, a funkció igy nem vizsgálható, ezért az assert kihagyva!
+Sign_up_func: Start
+Reg_result:  Email already taken.
+Reg_result: Mivel az email cím már létezik, a funkció igy nem vizsgálható, ezért az assert kihagyva!
+Sign_up_func: Start
+Reg_result:  Email already taken.
+Reg_result: Mivel az email cím már létezik, a funkció igy nem vizsgálható, ezért az assert kihagyva!
+A felhesználók beregisztrálása a rendszerbe
+Sign_up_func: Start
+Reg_result:  Email already taken.
+Reg_result: Mivel az email cím már létezik és a beállítás hibátlan bevitelre vonatkozott, ezért az assert kihagyva!
+Logout_func: Start
+Sign_up_func: Start
+Reg_result:  Your registration was successful!
+Logout_func: Start
+Sign_up_func: Start
+Reg_result:  Your registration was successful!
+Logout_func: Start
+Sign_up_func: Start
+Reg_result:  Your registration was successful!
+Logout_func: Start
+Sign_up_func: Start
+Reg_result:  Your registration was successful!
+Logout_func: Start
+A korábban beregisztrált felhesználók beléptethetőségének ellenőrzése
+Login_func: Start
+Logged_in:  Carol1
+Logout_func: Start
+Login_func: Start
+Logged_in:  Carol2
+Logout_func: Start
+Login_func: Start
+Logged_in:  Carol3
+Logout_func: Start
+Login_func: Start
+Logged_in:  Carol4
+Logout_func: Start
+Login_func: Start
+Logged_in:  Carol5
+Logout_func: Start

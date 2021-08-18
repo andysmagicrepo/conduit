@@ -1,0 +1,29 @@
+Sign_up_func: Start
+Reg_result:  Your registration was successful!
+Logout_func: Start
+Hibás bevitelek tesztjei
+Login_func: Start
+E_result:  Login failed!
+Logout_func: Start
+Login_func: Start
+E_result:  Login failed!
+Logout_func: Start
+Login_func: Start
+E_result:  Login failed!
+Logout_func: Start
+Login_func: Start
+E_result:  Login failed!
+Logout_func: Start
+Login_func: Start
+E_result:  Login failed!
+Logout_func: Start
+Login_func: Start
+E_result:  Login failed!
+Logout_func: Start
+Login_func: Start
+E_result:  Login failed!
+Logout_func: Start
+Regisztrált felhasználó sikeres belépésének ellenőrzése.
+Login_func: Start
+Logged_in:  Carol1
+Logout_func: Start
