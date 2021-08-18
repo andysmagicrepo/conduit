@@ -1,0 +1,22 @@
+{
+  "237b0ed0e42e5a3c24b8bbf8a4e2e1b9" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "2f698f1cfb2ec455",
+      "reportUrl" : "https://andysmagicrepo.github.io/conduit/7//#testresult/2f698f1cfb2ec455",
+      "status" : "passed",
+      "time" : {
+        "start" : 1629016542034,
+        "stop" : 1629016790315,
+        "duration" : 248281
+      }
+    } ]
+  }
+}
