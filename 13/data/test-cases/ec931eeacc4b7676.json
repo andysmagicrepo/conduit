@@ -1,0 +1,128 @@
+{
+  "uid" : "ec931eeacc4b7676",
+  "name" : "test_e_rep_data_new_article",
+  "fullName" : "testcases.test_e_rep_data_new_article#test_e_rep_data_new_article",
+  "historyId" : "8dffb4476c223b2fbd6c68cbf605c07d",
+  "time" : {
+    "start" : 1630798537304,
+    "stop" : 1630798555290,
+    "duration" : 17986
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "97efeece44619bae",
+      "name" : "log",
+      "source" : "97efeece44619bae.txt",
+      "type" : "text/plain",
+      "size" : 344
+    }, {
+      "uid" : "c76b34d930c2ed36",
+      "name" : "stdout",
+      "source" : "c76b34d930c2ed36.txt",
+      "type" : "text/plain",
+      "size" : 1121
+    }, {
+      "uid" : "ca46677a8c2c34a6",
+      "name" : "stderr",
+      "source" : "ca46677a8c2c34a6.txt",
+      "type" : "text/plain",
+      "size" : 215
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 3,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "testcases"
+  }, {
+    "name" : "suite",
+    "value" : "test_e_rep_data_new_article"
+  }, {
+    "name" : "host",
+    "value" : "fv-az39-731"
+  }, {
+    "name" : "thread",
+    "value" : "3683-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "testcases.test_e_rep_data_new_article"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 5,
+        "unknown" : 0,
+        "total" : 5
+      },
+      "items" : [ {
+        "uid" : "bae2d57b5e6f0b14",
+        "reportUrl" : "https://andysmagicrepo.github.io/conduit/12//#testresult/bae2d57b5e6f0b14",
+        "status" : "passed",
+        "time" : {
+          "start" : 1630798196687,
+          "stop" : 1630798214621,
+          "duration" : 17934
+        }
+      }, {
+        "uid" : "477a3e166de1847b",
+        "reportUrl" : "https://andysmagicrepo.github.io/conduit/11//#testresult/477a3e166de1847b",
+        "status" : "passed",
+        "time" : {
+          "start" : 1629328614466,
+          "stop" : 1629328632287,
+          "duration" : 17821
+        }
+      }, {
+        "uid" : "292646429feb90d5",
+        "reportUrl" : "https://andysmagicrepo.github.io/conduit/10//#testresult/292646429feb90d5",
+        "status" : "passed",
+        "time" : {
+          "start" : 1629327163469,
+          "stop" : 1629327181503,
+          "duration" : 18034
+        }
+      }, {
+        "uid" : "db0deada6c9f53fb",
+        "reportUrl" : "https://andysmagicrepo.github.io/conduit/9//#testresult/db0deada6c9f53fb",
+        "status" : "passed",
+        "time" : {
+          "start" : 1629326441508,
+          "stop" : 1629326459427,
+          "duration" : 17919
+        }
+      } ]
+    },
+    "tags" : [ ]
+  },
+  "source" : "ec931eeacc4b7676.json",
+  "parameterValues" : [ ]
+}
