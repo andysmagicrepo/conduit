@@ -1,0 +1,35 @@
+MyRND: Start
+Sign_up_func: Start
+Reg_result:  Email already taken.
+Reg_result: Mivel az email cím már létezik és a beállítás hibátlan bevitelre vonatkozott, ezért az assert kihagyva!
+New_article_func: Start
+MyRND.field_50_char
+MyRND.field_300_char
+MyRND.field_20_char
+NEW ARTICLE0
+YXMGMjgXUvslCwagGympBgYIGHMRpHTTQwuKGqCwYFLJtPyguH
+jLdAZLygDlQAnOEkcJjXRxqTpNvFIQgxMfZVUHTRNDPbuwrZTiuEI MQnedqnQpymASesAzjCOcdBpDneRyzlMVShFJUtSBJzSIPbXxNcOImKoSRnryYZmgcUqmYZoQHtfJhisPaJSnwETnoChNXqGleKYevcSVtDPZDQmCQxraj ynNqkjGAGuNjmqZTgemZeG JDSlAmiFphRgNRyTaUQlFexigEjMNitiXbPXwhcvt uPWxehQrqoWUcCPsaiyIcFqqmSdzRwgMYtGIXaoUSoSEWpeYxhApAfdOBXeVDF
+jLdAZLygDlQAnOEkcJjXRxqTpNvFIQgxMfZVUHTRNDPbuwrZTiuEI MQnedqnQpymASesAzjCOcdBpDneRyzlMVShFJUtSBJzSIPbXxNcOImKoSRnryYZmgcUqmYZoQHtfJhisPaJSnwETnoChNXqGleKYevcSVtDPZDQmCQxraj ynNqkjGAGuNjmqZTgemZeG JDSlAmiFphRgNRyTaUQlFexigEjMNitiXbPXwhcvt uPWxehQrqoWUcCPsaiyIcFqqmSdzRwgMYtGIXaoUSoSEWpeYxhApAfdOBXeVDF
+Hiba történt:  Message: no such element: Unable to locate element: {"method":"xpath","selector":"//ul/li/a[@href="#/editor"]"}
+  (Session info: headless chrome=96.0.4664.45)
+Stacktrace:
+#0 0x5566d1140ee3 <unknown>
+#1 0x5566d0c0e608 <unknown>
+#2 0x5566d0c44aa1 <unknown>
+#3 0x5566d0c44c61 <unknown>
+#4 0x5566d0c77714 <unknown>
+#5 0x5566d0c6229d <unknown>
+#6 0x5566d0c753bc <unknown>
+#7 0x5566d0c62163 <unknown>
+#8 0x5566d0c37bfc <unknown>
+#9 0x5566d0c38c05 <unknown>
+#10 0x5566d1172baa <unknown>
+#11 0x5566d1188651 <unknown>
+#12 0x5566d1173b05 <unknown>
+#13 0x5566d1189a68 <unknown>
+#14 0x5566d116805f <unknown>
+#15 0x5566d11a4818 <unknown>
+#16 0x5566d11a4998 <unknown>
+#17 0x5566d11bfeed <unknown>
+#18 0x7f295a0b8609 <unknown>
+

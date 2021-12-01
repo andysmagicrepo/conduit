@@ -1,0 +1,28 @@
+Sign_up_func: Start
+Reg_result:  Email already taken.
+Reg_result: Mivel az email cím már létezik és a beállítás hibátlan bevitelre vonatkozott, ezért az assert kihagyva!
+Felhasználó adatainak beállítása
+Your_settings_write_func: Start
+Hiba történt:  Message: no such element: Unable to locate element: {"method":"xpath","selector":"//ul/li/a[@href="#/settings"]"}
+  (Session info: headless chrome=96.0.4664.45)
+Stacktrace:
+#0 0x5610079ddee3 <unknown>
+#1 0x5610074ab608 <unknown>
+#2 0x5610074e1aa1 <unknown>
+#3 0x5610074e1c61 <unknown>
+#4 0x561007514714 <unknown>
+#5 0x5610074ff29d <unknown>
+#6 0x5610075123bc <unknown>
+#7 0x5610074ff163 <unknown>
+#8 0x5610074d4bfc <unknown>
+#9 0x5610074d5c05 <unknown>
+#10 0x561007a0fbaa <unknown>
+#11 0x561007a25651 <unknown>
+#12 0x561007a10b05 <unknown>
+#13 0x561007a26a68 <unknown>
+#14 0x561007a0505f <unknown>
+#15 0x561007a41818 <unknown>
+#16 0x561007a41998 <unknown>
+#17 0x561007a5ceed <unknown>
+#18 0x7f81a996e609 <unknown>
+
